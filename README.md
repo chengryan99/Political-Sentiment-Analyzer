@@ -1,7 +1,7 @@
 # Political Sentiment Analyzer
-University of Colorado Denver | CSCI4930 - Final Project | Ryan Cheng<br/>
+## University of Colorado Denver | CSCI4930 - Final Project | Ryan Cheng<br/>
 
-Project Overview:<br/>
+### Project Overview:<br/>
 BasicSA.py - basic test using Vader SA on 1000 headlines, view negative/positive word distribution and tokenizers/stopwords<br/>
 RetrieveData.py - retrieves data from Reddit using Pushshift API<br/>
 SentimentAnalysis.py - performs sentiment analysis on data using Flair, Vader, and TextBlob models, outputs results from each model<br/>
