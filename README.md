@@ -11,4 +11,4 @@ reddit_headlines_labels.csv - sentiment labels using VADER from BasicSA.py<br/>
 Trump_data.csv - 35,524 posts from r/politics (1/1/20 - 5/1/20) with headline containing "Trump"<br/>
 Trump_sentiment.csv - Flair, TextBlob, and VADER sentiment scores calculated from Trump_data.csv<br/>
 Biden_data.csv - 11,138 posts from r/politics (1/1/20 - 5/1/20) with headline containing "Biden"<br/>
-Trump_sentiment.csv - Flair, TextBlob, and VADER sentiment scores calculated from Biden_data.csv<br/>
+Biden_sentiment.csv - Flair, TextBlob, and VADER sentiment scores calculated from Biden_data.csv<br/>
