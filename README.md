@@ -1,5 +1,5 @@
 # Political Sentiment Analyzer
-## University of Colorado Denver | CSCI 4930 Machine Learning - Final Project | Ryan Cheng<br/>
+## University of Colorado Denver | CSCI 4930 Machine Learning - Final Project | Spring 2020 | Ryan Cheng<br/>
 
 ### Project Overview:<br/>
 BasicSA.py - basic test using Vader SA on 1000 headlines, view negative/positive word distribution and tokenizers/stopwords<br/>
